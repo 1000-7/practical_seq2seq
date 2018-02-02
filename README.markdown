@@ -1,6 +1,11 @@
-# Seq2Seq Wrapper for Tensorflow
 
-![](https://img.shields.io/badge/python-3-brightgreen.svg) ![](https://img.shields.io/badge/tensorflow-0.12.0-yellowgreen.svg)
+#王叔叔寒假更新
+
+终于调通了tensorflow1.4版的，而且翻墙下载了一些数据集
+
+## Seq2Seq Wrapper for Tensorflow
+
+![](https://img.shields.io/badge/python-3-brightgreen.svg) ![](https://img.shields.io/badge/tensorflow-1.4.0-yellowgreen.svg)
 
 To make life easier for beginners looking to experiment with seq2seq model. Read the article I wrote on seq2seq - [**Practical seq2seq**](http://suriyadeepan.github.io/2016-12-31-practical-seq2seq/), for more details.
 
@@ -73,3 +78,5 @@ _______________________________________________________________
 
 - Borrowed most of the code for [seq2seq_wrapper.py](/seq2seq_wrapper.py) from [mikesj-public](https://github.com/mikesj-public/rnn_spelling_bee/blob/master/spelling_bee_RNN.ipynb)
 - Borrowed the twitter dataset from this dude [Marsan-Ma](https://github.com/Marsan-Ma/)
+
+####
